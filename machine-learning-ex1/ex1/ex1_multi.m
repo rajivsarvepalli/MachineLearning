@@ -9,6 +9,7 @@
 %
 %  You will need to complete the following functions in this 
 %  exericse:
+
 %
 %     warmUpExercise.m
 %     plotData.m
